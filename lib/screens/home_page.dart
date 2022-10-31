@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
                   customListTile(articles![index], context),
             );
           }
-          return Center(
+          return const Center(
             child: CircularProgressIndicator(),
           );
         },

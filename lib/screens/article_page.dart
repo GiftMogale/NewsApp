@@ -1,5 +1,3 @@
-//Now let's create the article details page
-
 import 'package:flutter/material.dart';
 import 'package:google_signin/model/article_model.dart';
 
